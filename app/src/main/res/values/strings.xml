@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Connection</string>
+    <string name="hi_there">Hi there!</string>
+    <string name="app_logo">app logo</string>
+    <string name="welcome_to_connection">Welcome to Connection</string>
+    <string name="tap_the_button_below_to_sign_in_or_up">Tap the button below to sign in or up</string>
+    <string name="continueLabel">Continue</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="choose_one_of_the_following">Choose one of the following</string>
+    <string name="cancel">Cancel</string>
+    <string name="profile_pic_upload_btn">Profile pic upload btn</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already have account?</string>
+</resources>
